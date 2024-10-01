@@ -1,10 +1,9 @@
 /**
  * Prints the given message to STDOUT.
  *
- * @param {msg} str - The message to be printed.
+ * @param {string} str - The message to be printed.
  */
-
-function displayMessage (string) {
+function displayMessage(string) {
     console.log(string);
 }
 
